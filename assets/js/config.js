@@ -5,5 +5,5 @@
  * Everything else auto-updates on page load.
  */
 window.CF_PROXY = {
-  DOMAIN: 'cloudflare-proxy-ams.pages.dev',
+  DOMAIN: 'daili.880406.xyz',
 };
